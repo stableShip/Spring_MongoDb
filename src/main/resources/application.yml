@@ -1,0 +1,7 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb://ip:port
+            database: test
+server:
+    port: 8090
